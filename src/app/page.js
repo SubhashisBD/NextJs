@@ -1,9 +1,10 @@
+import MainPage from "@/components/MainPage";
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-     This is the Main Page
+      <MainPage />
     </div>
   )
 }
