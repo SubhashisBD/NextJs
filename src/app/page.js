@@ -1,10 +1,10 @@
-import MainPage from "@/components/MainPage";
+import FilterForm from "@/components/FilterForm";
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <MainPage />
+      <FilterForm/>
     </div>
   )
 }

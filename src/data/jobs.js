@@ -18,7 +18,7 @@ export const jobs = [
     {
         id: 3,
         title: "Fullstack Engineer",
-        location: "Remote",
+        location: "New York",
         company: "Stackify",
         description: "Own features end-to-end across frontend and backend.",
         requirements: ["React", "Node.js", "CI/CD basics"]
@@ -38,5 +38,13 @@ export const jobs = [
         company: "DataHive",
         description: "Pipeline and model data at scale.",
         requirements: ["Python", "ETL", "SQL"]
+    },
+    {
+        id: 6,
+        title: "Backend Developer",
+        location: "Delhi",
+        company: "CodeWorks",
+        description: "Design APIs and work with databases in Node.js.",
+        requirements: ["Node.js", "REST API", "SQL/Sequelize"]
     }
 ];
